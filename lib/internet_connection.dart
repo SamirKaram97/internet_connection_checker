@@ -1,6 +1,6 @@
 part of internet_connection_checker;
 
-/// This is a singleton that can be accessed like a regular constructor
+/// This is a singleton that can be accessed like a regular constructor samir
 /// i.e. [InternetConnectionChecker()] always returns the same instance.
 class InternetConnectionChecker {
   /// This is a singleton that can be accessed like a regular constructor
